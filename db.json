@@ -5,17 +5,17 @@
       {
         "id": "1",
         "rating": 10,
-        "text": "This is feedback item 1 from the backend."
+        "text": "Fantastic! Quick service and excellent customer support. Highly recommend"
       },
       {
         "id": "2",
         "rating": 8,
-        "text": "This is feedback item 2 from the backend."
+        "text": "Decent, but I expected a bit more. The process was slower than anticipated."
       },
       {
         "id": "3",
         "rating": 9,
-        "text": "This is feedback item 3 from the backend."
+        "text": "Good experience, but I encountered a minor issue that was eventually resolved."
       }
     ]
   }
